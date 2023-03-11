@@ -3,6 +3,4 @@
 [![Instagram URL](https://img.shields.io/static/v1?color=1ed14b&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/eriik.hsu)
 ### Computer Science Student</h3>
 
-- 👨‍💻 I’m currently studing **Python and some libraries**
-
 
