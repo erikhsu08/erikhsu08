@@ -2,7 +2,7 @@
 <h2 align="center">Computer Science student aspiring to become an Android developer</h3> 
   
 <p align='center'>
-  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+  <img src= 'https://camo.githubusercontent.com/7d55747bc8a9cfcca8e285c712d8369653dc288bd76c238f485ab2e484f28109/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d322e35'/>
 </p>
   
 ## **👨🏻‍💻 About me**
