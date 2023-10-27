@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="/media/gif.gif" alt="animated" />
+  <img src="/media/gif3.gif" alt="animated" />
 </p>
 
