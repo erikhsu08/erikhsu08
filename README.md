@@ -1,5 +1,3 @@
-<h3> < Hello world, I'm Erik Hsu /> </h3>
-  
-<p>
-kopdaskopdas 
-</p>
+<h1 align="center">Hi, I'm Erik Hsu </h1> 
+<h2 align="center">Computer Science student aspiring to become an Android developer </h3> 
+
