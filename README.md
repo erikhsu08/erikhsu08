@@ -1,3 +1,4 @@
-
-<img src = "/media/gif.gif">
+<p align="center">
+  <img src="gif 1.gif" alt="animated" />
+</p>
 
