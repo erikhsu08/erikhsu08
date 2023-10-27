@@ -1,3 +1,3 @@
 
-<img src = "/media/gif 1.gif">
+<img src = "/media/gif.gif">
 
