@@ -1,6 +1,10 @@
 <h1 align="center"> < Hi, I'm Erik Hsu /> </h1> 
 <h2 align="center">Computer Science student aspiring to become an Android developer</h3> 
-
+  
+<p align='center'>
+  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p>
+  
 ## **👨🏻‍💻 About me**
 I am a Computer Science student, currently 19 years old, and in my 4th semester. My passion for Android development is ever-growing, and I have been dedicated to honing my skills in this area.
 
