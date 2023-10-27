@@ -11,3 +11,5 @@ My goal is to create impactful applications that improve people's quality of lif
 I am always open to constructive criticism, as I believe it is crucial for my personal and professional growth. My thirst for knowledge is relentless, and I view mistakes as learning opportunities.
 
 In addition to Portuguese, which is my native language, I have intermediate proficiency in both English and Mandarin.
+
+## **Tools and Programming Languages:**
