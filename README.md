@@ -1,5 +1,15 @@
 <h1 align="center"> < Hi, I'm Erik Hsu /> </h1> 
-<h2 align="center">Computer Science student aspiring to become an Android developer</h3> 
+<h2 align="center">Computer Science student aspiring to become an Android developer</h2> 
+
+<p align = "center">
+<a href="https://www.linkedin.com/in/erik-hsu-5982b424b/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:erikhsu08@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
+</p>
   
 <p align='center'>
   <img src= 'https://camo.githubusercontent.com/7d55747bc8a9cfcca8e285c712d8369653dc288bd76c238f485ab2e484f28109/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d322e35'/>
