@@ -11,9 +11,6 @@
 
 </p>
   
-<p align='center'>
-  <img src= 'https://camo.githubusercontent.com/7d55747bc8a9cfcca8e285c712d8369653dc288bd76c238f485ab2e484f28109/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d322e35'/>
-</p>
   
 ## **👨🏻‍💻 About me**
 I am a Computer Science student, currently 19 years old, and in my 4th semester. My passion for Mobile development is ever-growing, and I have been dedicated to honing my skills in this area.
