@@ -27,7 +27,7 @@ In addition to Portuguese, which is my native language, I have intermediate prof
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png" alt="python" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="C" width="35" height="40"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="50" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="60" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/600px-Dart_programming_language_logo_icon.svg.png?20220708094811" alt="dart" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/64px-Flutter_logo.svg.png?20230821075714" alt="flutter" width="40" height="40"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/>
