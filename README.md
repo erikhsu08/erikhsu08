@@ -1,5 +1,5 @@
 <h1 align="center"> < Hi, I'm Erik Hsu /> </h1> 
-<h2 align="center">Computer Science student aspiring to become an Mobile developer</h2> 
+<h2 align="center">Computer Science student aspiring to become an Android developer</h2> 
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/erik-hsu-5982b424b/" target="_blank">
