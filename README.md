@@ -13,7 +13,7 @@
   
   
 ## **👨🏻‍💻 About me**
-I am a Computer Science student, currently 19 years old, and in my 5th semester. My passion for Android development is ever-growing, and I have been dedicated to honing my skills in this area.
+I am a Computer Science student, currently 20 years old, and in my 5th semester. My passion for Android development is ever-growing, and I have been dedicated to honing my skills in this area.
 
 Throughout my undergraduate studies, I have had the opportunity to delve into a variety of subjects, including Data Structures, Algorithm Analysis, Software Design, and Mathematical Modeling, among other mathematical areas. My experience includes introductory work with Python, C, Java, and Assembly, and I am focusing my efforts on deepening my knowledge in Kotlin for Android development.
 
