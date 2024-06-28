@@ -15,14 +15,6 @@ I am a **Computer Science student** studying **Android Development** in my free 
 
 
 ### **💬 Contact**
-[![Social](https://skillicons.dev/icons?i=linkedin,gmail)](https://www.linkedin.com/in/erikhsu/)(mailto:erikhsu08@gmail.com)
-
-
-
-<a href="https://www.linkedin.com/in/erikhsu/" target="_blank">
-<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>
-<a href="mailto:erikhsu08@gmail.com">
-<img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erikhsu/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:erikhsu08@gmail.com)
 
