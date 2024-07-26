@@ -1,7 +1,3 @@
-
-
-  
-  
 ### **👨🏻‍💻 About me**
 I am a **Computer Science student** studying **Android Development** in my free time. 
 
@@ -18,3 +14,6 @@ I am a **Computer Science student** studying **Android Development** in my free 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erikhsu/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:erikhsu08@gmail.com)
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=erikhsu08"/>
+</p>
