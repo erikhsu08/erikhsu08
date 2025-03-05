@@ -3,7 +3,7 @@ I am a **Computer Science student** studying **Android Development** in my free 
 
 * 📖 I'm currently developing small projects in **Java** and **Kotlin** for my Android development learning.
 * 🏆 2nd place in CODING4INTEGRITY Hackathon, organized by the UNODC.
-* 🌎 In addition to **Portuguese**, which is my native language, I have intermediate proficiency in both **English** and **Mandarin**.
+* 🌎 In addition to **Portuguese**, which is my native language, I have advanced proficiency in **English** and intermediate proficiency in **Mandarin**.
 
 
 ### **💻 Main Tools and Programming Languages**
