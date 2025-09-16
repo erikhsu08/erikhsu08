@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Erik Hsu
 
-Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie e desenvolvedor **Android** júnior com experiência em **Kotlin**, **Java**, **Android Jetpack** e **Firebase**, além de conhecimento prático em publicação de apps na **Google Play Store**.
+Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie e desenvolvedor **Android** com experiência em **Kotlin**, **Java**, **Android Jetpack** e **Firebase**, além de conhecimento prático em publicação de apps na **Google Play Store**.
 
 ---
 
@@ -24,7 +24,7 @@ Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie e 
   
 ---
 ## 💡 Experiência profissional
-**HUAWEI** - *Software Business Intern*           
+[**HUAWEI**](https://www.huawei.com/br/) - *Software Business Intern*           
 *11/2024 - 05/2025*
 
 - Suporte a operadores de telecomunicações em servidores Huawei em VMs. 
