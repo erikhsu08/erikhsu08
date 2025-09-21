@@ -13,7 +13,7 @@ Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie e 
 | ☁️ Cloud                       | [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) |
 | 🌐 Web                         | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) |
 | 🚀 Publicação e Distribuição   | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) |
-| ✏️ UI / UX                     | [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) |
+| ✏️ Prototipação & UI / UX                    | [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) |
 | 🖥️ Sistemas Operacionais e CLI | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) |
 
 ---
