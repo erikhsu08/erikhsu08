@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Erik Hsu
 
-Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie e desenvolvedor **Android** com experiência em **Kotlin**, **Java**, **Android Jetpack** e **Firebase**, além de conhecimento prático em publicação de apps na **Google Play Store**.
+Desenvolvedor **Android** com experiência em **Kotlin**, **Java**, **Android Jetpack** e **Firebase**, além de conhecimento prático em publicação de apps na **Google Play Store**.
 
 ---
 
